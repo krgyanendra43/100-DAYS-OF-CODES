@@ -23,7 +23,7 @@ int main() {
     r = choice;
 
     if (r == ADMIN) {
-        printf("Welcome SATYANSH! You have full access.\n");
+        printf("Welcome Gyanendra! You have full access.\n");
     }
     else if (r == USER) {
         printf("Hello FRIEND! You have limited access.\n");
@@ -34,3 +34,4 @@ int main() {
 
     return 0;
 }
+
